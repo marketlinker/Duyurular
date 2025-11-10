@@ -1,9 +1,9 @@
 {
-  "id": "2025-11-10-v1",
-  "title": "MarketLinker Pro Duyurusu",
-  "message": "MarketLinker Pro'ya hoş geldiniz! WhatsApp destek hattımız hafta içi 09:00 - 17:00 arasında hizmet vermektedir.",
-  "button_text": "Detaylı Bilgi",
-  "button_url": "https://www.youtube.com/@marketlinkerpro",
+  "id": "2025-11-10-v3",
+  "title": "MarketLinker Pro - Yeni Destek Dönemi Başladı!",
+  "message": "🚀 MarketLinker Pro artık size daha yakın!\n\nTüm XML, pazaryeri ve otomasyon işlemlerinizde profesyonel destek sunuyoruz.\n\nYeni sürümle birlikte sistem performansı iyileştirildi, eğitim videoları ve yardım dokümanları güncellendi.\n\nDestek almak, eğitim planı oluşturmak veya entegrasyon taleplerinizi iletmek için bizimle WhatsApp üzerinden iletişime geçebilirsiniz.",
+  "button_text": "💬 WhatsApp Destek Hattı",
+  "button_url": "https://wa.me/905518229403?text=Merhaba%20MarketLinker%20Pro%20destek%20ekibi%2C%20yard%C4%B1m%20almak%20istiyorum.",
   "active": true,
   "show_once": false
 }
